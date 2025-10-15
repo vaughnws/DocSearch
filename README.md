@@ -18,6 +18,45 @@ The midterm will last for 100 minutes and will consist of a combination of writt
 - Doc Search doesnt modify ANY files, they are exactly as downloaded from the course shell, no combinations or changes.
 - Doc Search ONLY uses material from the course shell, no external resources, no AI, nothing else, just the provided slides and files :)
 
+## How to run it
+- cd into the WEBSEC_MIDTERM dir
+### For Mac/Linux:
+1. **Run the installation script:**
+   ```bash
+   chmod +x install.sh
+   ./install.sh
+   ```
+
+2a. **Start the search tool:**
+   ```bash
+   chmod +x run.sh
+   ./run.sh
+   ```
+
+2b. **Mac/Linux sometimes appends "exit" to the end of shell scripts
+     - Run the python script directly if the run.sh closes immediately.
+```bash
+    python3 search_files.py
+    # or:
+    python3 search_files.py
+```
+
+3. **Open your browser to:**
+   ```
+   http://127.0.0.1:5000
+   ```
+   
+### For Windows:
+
+1. **Double-click:** `install.bat`
+
+2. **Double-click:** `run.bat`
+
+3. **Open your browser to:**
+   ```
+   http://127.0.0.1:5000
+   ```
+
 ## How it works:
 
 - **Flask** - Web framework for handling HTTP requests
@@ -29,7 +68,7 @@ The midterm will last for 100 minutes and will consist of a combination of writt
 - **HTML+CSS** - Frontend structure
 
 
-## Step-by-step Logic
+## Step-by-step logic
 
 When you type a keyword and press "Search":
 ```javascript
