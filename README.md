@@ -6,10 +6,13 @@ A fun loophole in certain instructions for an open-book midterm.
 ```code
 The midterm will be open-book, allowing you to use the provided PowerPoint slides,
 PDFs and Word documents available on Learn.
+
 However, internet access (including Google, AI tools,
 or other online resources) will not be permitted.
+
 Additionally, merged files (PDF, Word, PowerPoint, etc.)
 are not allowed during the exam.
+
 The midterm will last for 100 minutes and will consist of
 a combination of written responses, true/false, and multiple-choice questions.
 ```
