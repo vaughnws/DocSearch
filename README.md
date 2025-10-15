@@ -29,7 +29,7 @@ The midterm will last for 100 minutes and will consist of a combination of writt
 - **HTML+CSS** - Frontend structure
 
 
-##Step-by-step Logic
+## Step-by-step Logic
 
 When you type a keyword and press "Search":
 ```javascript
