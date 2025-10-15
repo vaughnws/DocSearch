@@ -34,8 +34,8 @@
 If the automated scripts don't work, you can install manually:
 
 ### Requirements:
-- Python 3.7 or higher
-- pip (Python package manager)
+- Python 3.13 or higher
+- pip or pip3 (Python package manager)
 
 ### Install dependencies:
 ```bash
